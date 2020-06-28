@@ -15,6 +15,6 @@ public static void main(String[] args) {
 	//String val = "2";   // use 4 here to insert spaces every 4 characters
 	//String result = in.replaceAll("(.{" + val + "})", "$1 ").trim();
 	//System.out.println(result);
-
+//
  }
 }
